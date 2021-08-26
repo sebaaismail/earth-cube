@@ -1,0 +1,7 @@
+  #c {
+    width: 100%;  /* let our container decide our size */
+    height: 100%;
+    max-width: 100%;
+    display: block;
+  }
+  

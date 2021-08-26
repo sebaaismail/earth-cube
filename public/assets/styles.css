@@ -1,0 +1,12 @@
+/*!*********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/styles.css ***!
+  \*********************************************************************************************************/
+#c {
+  width: 100%;
+  /* let our container decide our size */
+  height: 100%;
+  max-width: 100%;
+  display: block; }
+
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGVzLmNzcyIsIm1hcHBpbmdzIjoiQUFBRTtFQUNFLFdBQVc7RUFBRztFQUNkLFlBQVk7RUFDWixlQUFlO0VBQ2YsY0FBYyIsInNvdXJjZXMiOlsid2VicGFjazovL2VhcnRoLWN1YmUvLi9zcmMvc3R5bGVzLmNzcyJdLCJzb3VyY2VzQ29udGVudCI6WyIgICNjIHtcclxuICAgIHdpZHRoOiAxMDAlOyAgLyogbGV0IG91ciBjb250YWluZXIgZGVjaWRlIG91ciBzaXplICovXHJcbiAgICBoZWlnaHQ6IDEwMCU7XHJcbiAgICBtYXgtd2lkdGg6IDEwMCU7XHJcbiAgICBkaXNwbGF5OiBibG9jaztcclxuICB9XHJcbiAgIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
